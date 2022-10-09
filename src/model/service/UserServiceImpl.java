@@ -1,7 +1,5 @@
 package src.model.service;
 
-
-
 import src.Util;
 import src.bean.User;
 import src.dao.UserDao;
@@ -72,4 +70,6 @@ public class UserServiceImpl implements UserService {
     public User getUsersById(long userId) {
         return userDao.getUsersById(userId);
     }
+
+
 }

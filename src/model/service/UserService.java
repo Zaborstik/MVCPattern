@@ -1,7 +1,6 @@
 package src.model.service;
 
 
-
 import src.bean.User;
 
 import java.util.List;

@@ -1,7 +1,5 @@
 package src.dao;
 
-
-
 import src.bean.User;
 import src.dao.mock.DataSource;
 
